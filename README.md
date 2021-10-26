@@ -9,5 +9,6 @@ Aplikacja pobierająca i przetwarzająca informacje z NBP o kursie walut.
 # Oprogramowanie i technologie:
 - Anaconda Prompt
 - Spyder
+- Python
 
 # Prezentacja wizualna:
