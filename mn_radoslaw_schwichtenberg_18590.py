@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#author: Radosław Schwichtenberg
 import numpy as np
 import sys
 from PyQt5.QtCore import *
