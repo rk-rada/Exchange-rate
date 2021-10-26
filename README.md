@@ -1,5 +1,5 @@
-# Kurs-walut
-Aplikacja pobierająca i przetwarzająca informacje z NBP o kursie walut.
+# Kursy-walut
+Aplikacja pobierająca i przetwarzająca informacje z NBP o kursach walut.
 
 # Zakres pracy:
 - wykorzystanie metod numerycznych
