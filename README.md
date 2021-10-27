@@ -1,7 +1,7 @@
 # Exchange rates
 An application that downloads and processes information from the NBP about exchange rates.
 
-# Operating range:
+# Requirements:
 - use of numerical methods
 - simple user interface
 
