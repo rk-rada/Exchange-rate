@@ -4,7 +4,7 @@ An application that downloads and processes information from the NBP about excha
 # Operating range:
 - use of numerical methods
 - simple user interface
-- 
+
 # Software and technologies:
 - Anaconda Prompt
 - Spyder
